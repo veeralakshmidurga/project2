@@ -1,0 +1,1 @@
+I am created directory,files.Go to the github and create new repository and copy the URL and paste it on gitbash.Create login,registrartion branches and create its components then add these components in register branch and merge it into main branch.Finally delete login and registrartion branch
